@@ -86,6 +86,6 @@ You can easily edit existing translations or add your own inside the `TELEPORT.T
 ## 📝 Support & License
 
 Created by **TELEPORT**. 
-💬 Discord: [discord.gg/lodstudio](https://discord.gg/lodstudio)
+💬 Discord: [discord.gg/2HVJ7h58Mr](https://discord.gg/2HVJ7h58Mr)
 
 Feel free to fork, modify, and use this resource for your personal server needs.
